@@ -137,7 +137,7 @@ server-maintenance-cms/
 1. **Download & Extract**
    ```bash
    # Clone the repository
-   git clone <repository-url>
+   git clone https://github.com/soikot-shahriaar/server-maintenance-cms
    cd server-maintenance-cms
    
    # Or download and extract ZIP file
